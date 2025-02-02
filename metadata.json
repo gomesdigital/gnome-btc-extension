@@ -1,0 +1,8 @@
+{
+    "uuid": "gnomebtcextension@daniel.gomes.digital",
+    "name": "GNOME BTC",
+    "description": "Bitcoin indicator for GNOME's System Status Area",
+    "shell-version": [ "46" ],
+    "url": "https://github.com/gomesdigital/gnome-btc-extension",
+    "settings-schema": "org.gnome.shell.extensions.gnomebtcextension"
+}
